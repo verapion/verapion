@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there ✨
+
+I am Vera, a PhD candidate in Digital Humanities at Leipzig University In Germany. 🎓 
+
+My interests lie in game studies, cultural heritage studies and the intersection of both. 🎮🏛️
+
+My pronouns are she/her. ✨
 
 <!--
 **verapion/verapion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
